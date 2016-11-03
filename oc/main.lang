@@ -25,7 +25,7 @@ OS {ok}
 
 # Used for the navigation menu only in Firefox OS pages
 ;TV
-TV
+TV {ok}
 
 
 # Used for the navigation menu, points to /firefox/channel
@@ -207,7 +207,7 @@ Autras lengas&nbsp;:
 
 # Will replace "Other languages" for the footer's language switcher
 ;Page language:
-Page language:
+Lenga de la pagina:
 
 
 # Year / Month / Day, indicate your prefered date format for your language
@@ -781,7 +781,7 @@ Tèxte
 
 # Used in contact forms checkboxes to know if you want to receive HTML or pure text emails
 ;HTML
-HTML
+HTML {ok}
 
 
 # This is the error message displayed if you provide an invalid email address in a form
@@ -814,7 +814,7 @@ VÒSTRE EMAIL AICÍ
 
 # Newsletter subscription Button
 ;Sign Up Now
-Sign Up Now
+S'inscriure ara
 
 
 # Old newsletter subscription Button
@@ -835,7 +835,7 @@ Vos mandarem pas que d'informacions a prepaus Mozilla.
 
 
 ;Thanks!
-Thanks!
+Mercé !
 
 
 ;If you haven’t previously confirmed a subscription to a Mozilla-related newsletter you may have to do so. Please check your inbox or your spam filter for an email from us.
